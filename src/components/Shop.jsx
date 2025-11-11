@@ -1,7 +1,7 @@
-import { useContext } from 'react';
+
 import { DUMMY_PRODUCTS } from '../dummy-products.js';
 import Product from './Product.jsx';
-import CartContext from '../store/shopping-cart-context.jsx';
+
 
 export default function Shop() {
 
